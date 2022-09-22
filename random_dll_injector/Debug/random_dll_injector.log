@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\adrian\source\repos\random_dll_injector\random_dll_injector\main.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\adrian\source\repos\random_dll_injector\random_dll_injector\functions.h(55): warning C4715: 'Functions::GetModuleBaseAddress': not all control paths return a value
-  random_dll_injector.vcxproj -> C:\Users\adrian\source\repos\random_dll_injector\Debug\random_dll_injector.exe
