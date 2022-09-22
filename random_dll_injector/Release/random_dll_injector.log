@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\adrian\source\repos\random_dll_injector\random_dll_injector\main.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\adrian\source\repos\random_dll_injector\random_dll_injector\functions.h(55): warning C4715: 'Functions::GetModuleBaseAddress': not all control paths return a value
+  All 111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  random_dll_injector.vcxproj -> C:\Users\adrian\source\repos\random_dll_injector\Release\random_dll_injector.exe
